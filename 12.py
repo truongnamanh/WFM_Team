@@ -4,4 +4,9 @@ print("WFM_Team_WTF")
 
 print("Trương Nam Anh")
 
-pritn("Mastet Chef")
+print("Mastet Chef")
+
+
+
+
+ádjahduihaiuwhkjfbdgciwebiiuchiewckgiwekc
